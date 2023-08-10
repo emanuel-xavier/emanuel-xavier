@@ -48,7 +48,7 @@ As a frontend developer, I worked on developing user interfaces using vanilla Ja
 &nbsp;&nbsp;**DevOps Professional** \
 &nbsp;&nbsp;[PetroSoft](http://www.petrolsoftdesign.com/) \
 &nbsp;&nbsp;• Jan 2023 - Present \
-&nbsp;&nbsp;Languages & Technologies: `Linux`, `Docker`, `Jenkins` \
+&nbsp;&nbsp;Languages & Technologies: `Linux`, `Docker`, `Jenkins`, `Windows` \
 As a DevOps professional, I specialize in ensuring efficient and reliable software delivery by automating deployment and configuration tasks, ensuring systems availability and scalability, and collaborating closely with development teams to resolve issues and deliver solutions quickly and efficiently. I have expertise in Linux server administration, troubleshooting, and using Jenkins to manage build, test, and deployment pipelines for continuous integration and delivery of software products.
 
 ## Let's Connect
