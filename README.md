@@ -16,3 +16,8 @@ A collaborative mobile application aimed at providing a safe platform for women 
 
 ### Terraplanner [<img src="images/external-link.svg" alt="Terraplanner" style="height: 1em; vertical-align: middle;">](https://terraplanner.org/)
 An exciting map-based project designed to generate routes and geographical tools, with data visualization from various locations across Brazil. I've utilized Docker, Terraform, Ansible, GitlabCI/CD, AWS, and GCP to make this project a reality.
+
+## Let's Connect
+I'm enthusiastic about collaboration and continuous learning. If you're interested in working together or discussing anything related to software engineering, feel free to reach out to me via [email](mailto:emanueljx@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/emanuel-xavier).
+
+Looking forward to connecting with fellow developers and tech enthusiasts!
