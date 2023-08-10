@@ -20,8 +20,8 @@ An exciting map-based project designed to generate routes and geographical tools
 ## Let's Connect
 I'm enthusiastic about collaboration and continuous learning. You can connect with me through various channels:
 
-- [<img src="images/email.svg" alt="Email" style="height: 1.2em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
-- [<img src="images/linkedin.svg" alt="LinkedIn" style="height: 1.2em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
-- <img src="images/discord.svg" alt="LinkedIn" style="height: 1.2em; vertical-align: middle;"> emanuel.x
+- [<img src="images/email.svg" alt="Email" style="height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
+- [<img src="images/linkedin.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
+- <img src="images/discord.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> emanuel.x
 
 Looking forward to connecting with fellow developers and tech enthusiasts!
