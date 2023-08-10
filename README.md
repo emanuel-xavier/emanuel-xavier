@@ -18,6 +18,10 @@ A collaborative mobile application aimed at providing a safe platform for women 
 An exciting map-based project designed to generate routes and geographical tools, with data visualization from various locations across Brazil. I've utilized Docker, Terraform, Ansible, GitlabCI/CD, AWS, and GCP to make this project a reality.
 
 ## Let's Connect
-I'm enthusiastic about collaboration and continuous learning. If you're interested in working together or discussing anything related to software engineering, feel free to reach out to me via [email](mailto:emanueljx@outlook.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/emanuel-xavier).
+I'm enthusiastic about collaboration and continuous learning. You can connect with me through various channels:
+
+- [<img src="images/email.svg" alt="Email" style="height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
+- [<img src="images/linkedin.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
+- <img src="images/discord.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> emanuel.x
 
 Looking forward to connecting with fellow developers and tech enthusiasts!
