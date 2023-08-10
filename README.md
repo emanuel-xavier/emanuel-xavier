@@ -1,6 +1,12 @@
 # Hi there, I'm Emanuel Xavier!
 
-Welcome to my GitHub profile. I'm a passionate DevOps and Software Engineer with a strong background in backend development and cloud infrastructure. I'm dedicated to creating efficient and reliable software solutions through automation, continuous integration, and thoughtful system design.
+Welcome to my GitHub/Gitlab profile. I'm a passionate DevOps and Software Engineer with a strong background in backend development and cloud infrastructure. I'm dedicated to creating efficient and reliable software solutions through automation, continuous integration, and thoughtful system design.
+
+- [<img src="images/github.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Github](https://github.com/emanuel-xavier)
+- [<img src="images/gitlab.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Gitlab](https://gitlab.com/emanuel-xavier)
+- [<img src="images/email.svg" alt="Email" style="height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
+- [<img src="images/linkedin.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
+- <img src="images/discord.svg" alt="Discord" style="height: 1em; vertical-align: middle;"> emanuel.x
 
 ## About Me
 - 🌍 Based in Brazil.
@@ -52,10 +58,6 @@ As a frontend developer, I worked on developing user interfaces using vanilla Ja
 As a DevOps professional, I specialize in ensuring efficient and reliable software delivery by automating deployment and configuration tasks, ensuring systems availability and scalability, and collaborating closely with development teams to resolve issues and deliver solutions quickly and efficiently. I have expertise in Linux server administration, troubleshooting, and using Jenkins to manage build, test, and deployment pipelines for continuous integration and delivery of software products.
 
 ## Let's Connect
-I'm enthusiastic about collaboration and continuous learning. You can connect with me through various channels:
-
-- [<img src="images/email.svg" alt="Email" style="height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
-- [<img src="images/linkedin.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
-- <img src="images/discord.svg" alt="Discord" style="height: 1em; vertical-align: middle;"> emanuel.x
+I'm enthusiastic about collaboration and continuous learning. You can connect with me through any channels.
 
 Looking forward to connecting with fellow
