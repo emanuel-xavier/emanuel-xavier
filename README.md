@@ -2,60 +2,38 @@
 
 Welcome to my GitHub/Gitlab profile. I'm a passionate DevOps and Software Engineer with a strong background in backend development and cloud infrastructure. I'm dedicated to creating efficient and reliable software solutions through automation, continuous integration, and thoughtful system design.
 
-- [<img src="./images/github.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Github](https://github.com/emanuel-xavier)
-- [<img src="./images/gitlab.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Gitlab](https://gitlab.com/emanuel-xavier)
-- [<img src="./images/email.svg" alt="Email" style="height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
-- [<img src="./images/linkedin.svg" alt="LinkedIn" style="height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
-- <img src="./images/discord.svg" alt="Discord" style="height: 1em; vertical-align: middle;"> emanuel.x
+- [<img src="https://www.svgrepo.com/download/512317/github-142.svg" alt="LinkedIn" style="height: 1em;  max-height: 1em; ertical-align: middle;"> Github](https://github.com/emanuel-xavier)
+- [<img src="https://www.svgrepo.com/download/373625/gitlab.svg" alt="LinkedIn" style="height: 1em; max-height: 1em; vertical-align: middle;"> Gitlab](https://gitlab.com/emanuel-xavier)
+- [<img src="https://www.svgrepo.com/download/421616/email-mail-web.svg" alt="Email" style="height: 1em; max-height: 1em; vertical-align: middle;"> emanueljx@outlook.com](mailto:emanueljx@outlook.com)
+- [<img src="https://www.svgrepo.com/download/448234/linkedin.svg" alt="LinkedIn" style="height: 1em; max-height: 1em; vertical-align: middle;"> Emanuel Xavier](https://www.linkedin.com/in/emanuel-xavier)
+- <img src="https://www.svgrepo.com/download/353655/discord-icon.svg" alt="Discord" style="height: 1em; vertical-align: middle;"> emanuel.x
 
 ## About Me
 - 🌍 Based in Brazil.
 - 🎓 Graduated with a Bachelor's degree in Computer Science from the Federal University of Ouro Preto.
 - 💼 I have experience working as a Backend Developer, SRE, DevOps Engineer, and Frontend Developer.
-- 🛠️ I'm proficient in C++, Python, and JavaScript, with a focus on Node.js for backend development.
+- 🛠️ I'm proficient in C++, Python, JavaScript, and Golang, with experience in backend development and automating tools.
 - ☁️ Skilled in building and maintaining cloud infrastructure using AWS, GCP, and Docker.
 - 🔧 I'm a problem solver at heart, with expertise in Linux server administration and troubleshooting.
 
 ## Work Experience
 
-[<img align="left" height="94px" width="94px" alt="TerraLAB" src="https://i.ibb.co/GPM1hk8/TerraLab.png"/>](http://www2.decom.ufop.br/terralab/)
+**Backend Developer & SRE/DevOps**
+**TerraLAB** • Trainee/Internship • Mar 2020 - Nov 2022
 
-&nbsp;&nbsp;**Backend Developer** \
-&nbsp;&nbsp;[**TerraLAB**](http://www2.decom.ufop.br/terralab/) • Trainee/Internship \
-&nbsp;&nbsp;• Mar 2020 - Nov 2021 \
-&nbsp;&nbsp;Languages & Technologies: `JavaScript`, `Node.js`, `Firebase`, `Jest`, `GitLab`, `GitLab CI`, `AWS` \
-Featured Projects: 
-- [Segurança da Mulher <img src="./images/external-link.svg" alt="SegurancaDaMulher" style="height: 1em; vertical-align: middle;">](https://play.google.com/store/apps/details?id=com.ouvidoria.mobile&hl=pt_BR&gl=US)
-A collaborative mobile application aimed at providing a safe platform for women to report incidents anonymously. This project showcases my skills in Node.js, JavaScript, Docker, AWS, GCP, and more.
-<br/>
+Skills: `JavaScript`, `Node.js`, `Firebase`, `Jest`, `AWS`, `GCP`, `Docker`, `Terraform`, `Ansible`, `GitLab`, `CI/CD`, `Jenkins`
 
-[<img align="left" height="94px" width="94px" alt="TerraLAB" src="https://i.ibb.co/GPM1hk8/TerraLab.png"/>](http://www2.decom.ufop.br/terralab/)
-
-&nbsp;&nbsp;**SRE and DevOps** \
-&nbsp;&nbsp;[**TerraLAB**](http://www2.decom.ufop.br/terralab/) • Trainee/Internship \
-&nbsp;&nbsp;• Nov 2021 - Nov 2022 \
-&nbsp;&nbsp;Languages & Technologies: `AWS`, `GCP`, `Linux`, `Docker`, `GitLab`, `GitLab CI`, `Terraform`, `Ansible` \
 Featured Projects:
-- [Terraplanner <img src="./images/external-link.svg" alt="Terraplanner" style="height: 1em; vertical-align: middle;">](https://terraplanner.org/)
-An exciting map-based project designed to generate routes and geographical tools, with data visualization from various locations across Brazil. I've utilized Docker, Terraform, Ansible, GitLab CI/CD, AWS, and GCP to make this project a reality.
-<br/>
+- [Segurança da Mulher <img src="https://www.svgrepo.com/download/510970/external-link.svg"  style="height: 1em; vertical-align: middle;">](https://play.google.com/store/apps/details?id=com.ouvidoria.mobile&hl=pt_BR&gl=US):
+  A collaborative mobile app aimed at providing a safe platform for women to report incidents anonymously. My goal was to create a backend and cloud infrastructure using Node.js, Firebase, AWS and Docker.
 
-[<img align="left" height="94px" width="94px" alt="TerraLAB" src="./images/petrosoft.jpg"/>](https://petrosoftdesign.com/)
+- [Terraplanner <img src="https://www.svgrepo.com/download/510970/external-link.svg"  style="height: 1em; vertical-align: middle;">](https://terraplanner.org/):
+  A collaborative effort focused on creating an exciting map-based project designed to generate routes and geographical tools, with data visualization from various locations across Brazil. I played a role in establishing efficient DevOps practices using Terraform, Ansible, GitLab CI/CD, AWS, and GCP.
 
-&nbsp;&nbsp;**Frontend Developer** \
-&nbsp;&nbsp;[PetroSoft](http://www.petrolsoftdesign.com/) \
-&nbsp;&nbsp;• Nov 2022 - Dec 2022 \
-&nbsp;&nbsp;Languages & Technologies: `JavaScript`, `CSS`, `HTML`, `Liferay` \
-As a frontend developer, I worked on developing user interfaces using vanilla JavaScript, CSS, and HTML inside Liferay, a Java-based portal framework. I collaborated with designers, backend developers, and other team members to develop and maintain high-quality user interfaces for web-based applications.
-<br/>
+**Frontend Developer & DevOps Professional**
+**PetroSoft** • Nov 2022 - Present
 
-[<img align="left" height="94px" width="94px" alt="TerraLAB" src="./images/petrosoft.jpg"/>](https://petrosoftdesign.com/)
-
-&nbsp;&nbsp;**DevOps Professional** \
-&nbsp;&nbsp;[PetroSoft](http://www.petrolsoftdesign.com/) \
-&nbsp;&nbsp;• Jan 2023 - Present \
-&nbsp;&nbsp;Languages & Technologies: `Linux`, `Docker`, `Jenkins`, `Windows` \
-As a DevOps professional, I specialize in ensuring efficient and reliable software delivery by automating deployment and configuration tasks, ensuring systems availability and scalability, and collaborating closely with development teams to resolve issues and deliver solutions quickly and efficiently. I have expertise in Linux server administration, troubleshooting, and using Jenkins to manage build, test, and deployment pipelines for continuous integration and delivery of software products.
+Skills: `JavaScript`, `CSS`, `HTML`, `Liferay`, `CI/CD`, `Jenkins`, `Docker`, `Linux`, `Windows`
 
 ## Let's Connect
 I'm enthusiastic about collaboration and continuous learning. You can connect with me through any channels.
