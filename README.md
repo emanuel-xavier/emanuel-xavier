@@ -22,6 +22,7 @@ Welcome to my GitHub/Gitlab profile. I'm a passionate DevOps and Software Engine
 **TerraLAB** • Trainee/Internship • Mar 2020 - Nov 2022
 
 Skills: `Node.js`, `SQL`, `Firebase`, `Jest`, `AWS`, `GCP`, `Docker`, `Terraform`, `Ansible`, `GitLabCI`, `CI/CD`, `Jenkins`
+
 Programming Languages: `JavaScript`, `go`, `rust(learning)`, `python`, `C`, `C++`
 
 Featured Projects:
