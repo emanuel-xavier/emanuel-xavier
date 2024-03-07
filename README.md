@@ -21,7 +21,8 @@ Welcome to my GitHub/Gitlab profile. I'm a passionate DevOps and Software Engine
 **Backend Developer & SRE/DevOps**
 **TerraLAB** • Trainee/Internship • Mar 2020 - Nov 2022
 
-Skills: `JavaScript`, `Node.js`, `Firebase`, `Jest`, `AWS`, `GCP`, `Docker`, `Terraform`, `Ansible`, `GitLab`, `CI/CD`, `Jenkins`
+Skills: `Node.js`, `SQL`, `Firebase`, `Jest`, `AWS`, `GCP`, `Docker`, `Terraform`, `Ansible`, `GitLabCI`, `CI/CD`, `Jenkins`
+Programming Languages: `JavaScript`, `go`, `rust(learning)`, `python`, `C`, `C++`
 
 Featured Projects:
 - [Segurança da Mulher <img src="https://www.svgrepo.com/download/510970/external-link.svg"  style="height: 1em; vertical-align: middle;">](https://play.google.com/store/apps/details?id=com.ouvidoria.mobile&hl=pt_BR&gl=US):
