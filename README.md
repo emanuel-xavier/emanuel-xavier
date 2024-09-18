@@ -32,7 +32,7 @@ Featured Projects:
 - [Terraplanner <img src="https://www.svgrepo.com/download/510970/external-link.svg"  style="height: 1em; vertical-align: middle;">](https://terraplanner.org/):
   A collaborative effort focused on creating an exciting map-based project designed to generate routes and geographical tools, with data visualization from various locations across Brazil. I played a role in establishing efficient DevOps practices using Terraform, Ansible, GitLab CI/CD, AWS, and GCP.
 
-**Frontend Developer & DevOps Professional**
+**Developer & DevOps Professional**
 **PetroSoft** • Nov 2022 - Present
 
 Skills: `JavaScript`, `CSS`, `HTML`, `Liferay`, `CI/CD`, `Jenkins`, `Docker`, `Linux`, `Windows`
